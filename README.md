@@ -23,4 +23,4 @@ This application does not yet exist. This repository serves as a place to docume
 
 ## Ideas For Investigating
 
-- integrate with a SSG like Pelican
+- integrate with a SSG like Pelican (see [here](https://docs.getpelican.com/en/latest/plugins.html#using-plugins-to-inject-content))
