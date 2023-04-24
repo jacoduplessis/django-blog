@@ -20,3 +20,7 @@ This application does not yet exist. This repository serves as a place to docume
 - multiple authors
 - code highligting
 - spell checking
+
+## Ideas For Investigating
+
+- integrate with a SSG like Pelican
